@@ -3,8 +3,8 @@ Cody Miller
 
 Commands
 --------
-git global user.name name  
-git global user.email email  
+git config --global user.name name  
+git config --global user.email email  
 git clone url  
 git add filename  
 git commit -m "message"  
